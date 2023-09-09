@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/use51/Desktop/all/mqtt/mqtt.csproj": {}
+  },
+  "projects": {
+    "/home/use51/Desktop/all/mqtt/mqtt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/use51/Desktop/all/mqtt/mqtt.csproj",
+        "projectName": "mqtt",
+        "projectPath": "/home/use51/Desktop/all/mqtt/mqtt.csproj",
+        "packagesPath": "/home/use51/.nuget/packages/",
+        "outputPath": "/home/use51/Desktop/all/mqtt/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/use51/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Mqttnet": {
+              "target": "Package",
+              "version": "[4.3.0.858, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/217/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

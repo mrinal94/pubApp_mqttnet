@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwyegTcpzdmKyvc1rpwXQ5k+upV0Ys5Yw4qmzg7Uge2Z7bgDNuuZtsqJxZukZLuGE8fqgpmCzwc49Ibmt+fOmA==",
+  "success": true,
+  "projectFilePath": "/home/use51/Desktop/all/mqtt/mqtt.csproj",
+  "expectedPackageFiles": [
+    "/home/use51/.nuget/packages/mqttnet/4.3.0.858/mqttnet.4.3.0.858.nupkg.sha512"
+  ],
+  "logs": []
+}

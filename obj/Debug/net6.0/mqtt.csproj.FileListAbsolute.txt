@@ -1,0 +1,17 @@
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/mqtt
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/mqtt.deps.json
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/mqtt.runtimeconfig.json
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/mqtt.dll
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/mqtt.pdb
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.csproj.AssemblyReference.cache
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.GeneratedMSBuildEditorConfig.editorconfig
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.AssemblyInfoInputs.cache
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.AssemblyInfo.cs
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.csproj.CoreCompileInputs.cache
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.dll
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/refint/mqtt.dll
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.pdb
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.genruntimeconfig.cache
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/ref/mqtt.dll
+/home/use51/Desktop/all/mqtt/obj/Debug/net6.0/mqtt.csproj.CopyComplete
+/home/use51/Desktop/all/mqtt/bin/Debug/net6.0/MQTTnet.dll
